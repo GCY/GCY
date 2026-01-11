@@ -1,4 +1,5 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=GCY&theme=radical)](https://github.com/gcy/github-readme-stats)  
+![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=GCY&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GCY&layout=compact&theme=gruvbox)](https://github.com/GCY/github-readme-stats)
 
 <!--
